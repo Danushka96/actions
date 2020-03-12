@@ -1,4 +1,6 @@
-name: CI
+name: CI-Firebase-hosting
+description: 'Upload a node based frontend framework generated projects(React/Angular/VueJS) to the firebase hosting.'
+author: 'Danushka Herath'
 
 on:
   push:
